@@ -1,6 +1,6 @@
 html {
     background-color: pink;
-    background-image: url("elsa.jpg");
+    background-image: url("BINI..jpg");
     background-size: cover;
 }
 html::before{
@@ -57,3 +57,4 @@ body {
     color: rgb(0, 0, 0);
     cursor: pointer;
 }
+
